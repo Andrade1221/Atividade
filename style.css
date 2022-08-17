@@ -1,0 +1,9 @@
+body {
+  background-image: url("fundo.png");
+}
+  h1 {
+    color: rgb(253, 4, 4);
+  }
+  p {
+    color: rgb(252, 249, 249);
+  }
